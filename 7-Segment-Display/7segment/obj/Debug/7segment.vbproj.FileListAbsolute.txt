@@ -1,0 +1,22 @@
+E:\VisualBasic\7segment\bin\Debug\7segment.exe.config
+E:\VisualBasic\7segment\bin\Debug\7segment.exe
+E:\VisualBasic\7segment\bin\Debug\7segment.pdb
+E:\VisualBasic\7segment\bin\Debug\7segment.xml
+E:\VisualBasic\7segment\obj\Debug\7segment.vbprojAssemblyReference.cache
+E:\VisualBasic\7segment\obj\Debug\_7segment.Form1.resources
+E:\VisualBasic\7segment\obj\Debug\_7segment.Resources.resources
+E:\VisualBasic\7segment\obj\Debug\7segment.vbproj.GenerateResource.cache
+E:\VisualBasic\7segment\obj\Debug\7segment.exe
+E:\VisualBasic\7segment\obj\Debug\7segment.xml
+E:\VisualBasic\7segment\obj\Debug\7segment.pdb
+C:\Users\Mark Angelo\source\repos\7-Segment-Display\7segment\bin\Debug\7segment.exe.config
+C:\Users\Mark Angelo\source\repos\7-Segment-Display\7segment\bin\Debug\7segment.exe
+C:\Users\Mark Angelo\source\repos\7-Segment-Display\7segment\bin\Debug\7segment.pdb
+C:\Users\Mark Angelo\source\repos\7-Segment-Display\7segment\bin\Debug\7segment.xml
+C:\Users\Mark Angelo\source\repos\7-Segment-Display\7segment\obj\Debug\7segment.vbprojAssemblyReference.cache
+C:\Users\Mark Angelo\source\repos\7-Segment-Display\7segment\obj\Debug\_7segment.Form1.resources
+C:\Users\Mark Angelo\source\repos\7-Segment-Display\7segment\obj\Debug\_7segment.Resources.resources
+C:\Users\Mark Angelo\source\repos\7-Segment-Display\7segment\obj\Debug\7segment.vbproj.GenerateResource.cache
+C:\Users\Mark Angelo\source\repos\7-Segment-Display\7segment\obj\Debug\7segment.exe
+C:\Users\Mark Angelo\source\repos\7-Segment-Display\7segment\obj\Debug\7segment.xml
+C:\Users\Mark Angelo\source\repos\7-Segment-Display\7segment\obj\Debug\7segment.pdb
